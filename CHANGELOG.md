@@ -1,5 +1,8 @@
 # bedrock-webpack ChangeLog
 
+### Added
+- Use `babel-plugin-transform-object-rest-spread`.
+
 ### Changed
 - Use `require.resolve` to get paths for webpack resources so they work when
   installed and in linked mode.
