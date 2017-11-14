@@ -1,5 +1,9 @@
 # bedrock-webpack ChangeLog
 
+### Changed
+- Use `require.resolve` to get paths for webpack resources so they work when
+  installed and in linked mode.
+
 ## 1.1.3 - 2017-08-23
 
 ### Changed
