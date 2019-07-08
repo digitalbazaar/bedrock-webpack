@@ -44,7 +44,8 @@
     "vue-style-loader": "^4.1.0",
     "vue-template-compiler": "^2.5.16",
     "webpack": "^4.5.0",
-    "webpack-merge": "^4.1.0"
+    "webpack-merge": "^4.1.0",
+    "snyk": "^1.192.3"
   },
   "peerDependencies": {
     "bedrock": "^1.12.1",
@@ -55,5 +56,10 @@
   },
   "engines": {
     "node": ">=6.0.0"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
