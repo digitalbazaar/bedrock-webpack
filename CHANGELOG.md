@@ -1,5 +1,12 @@
 # bedrock-webpack ChangeLog
 
+## 3.0.0 - 2019-xx-xx
+
+### Notes
+
+- **BREAKING**: This is a major release. **Upgrading is required.** Read the
+  changes below and those in `bedrock-views`.
+
 ### Fixed
 - `--webpack-uglify-beautify` was setting incorrect flag.
 
