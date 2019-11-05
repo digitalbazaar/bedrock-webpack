@@ -50,6 +50,7 @@
   to static imports.
 - CSS optimization support.
 - Handle image and font files.
+- Clean build directory support.
 
 ### Removed
 - **BREAKING**: AngularJS support.
