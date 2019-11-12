@@ -1,5 +1,11 @@
 # bedrock-webpack ChangeLog
 
+### Changed
+- Update dependencies.
+
+### Added
+- Add vue-template-compiler dependency.
+
 ## 3.0.0 - 2019-11-08
 
 ### Notes
