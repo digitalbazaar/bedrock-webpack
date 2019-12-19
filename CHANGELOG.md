@@ -1,5 +1,9 @@
 # bedrock-webpack ChangeLog
 
+### Fixed
+- Wrap and adjust HMR middleware to avoid disruption of proper session
+  operation.
+
 ## 3.0.1 - 2019-11-12
 
 ### Changed
