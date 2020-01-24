@@ -1,5 +1,14 @@
 # bedrock-webpack ChangeLog
 
+### Fixed
+- Adjust webpack path processing so the root file is found early and regular
+  `node_modules` processing takes default priority over the root
+  `node_modules`. This helps avoid the issue of using the top-level version of
+  a package when a local specific version should be used. Note that there still
+  remains a potential similar issue of choosing the wrong version when using
+  webpack config overrides. This is a specialized use case and will be
+  addressed at a later time if needed.
+
 ## 3.0.2 - 2019-12-19
 
 ### Fixed
