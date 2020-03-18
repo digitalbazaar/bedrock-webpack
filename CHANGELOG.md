@@ -1,5 +1,9 @@
 # bedrock-webpack ChangeLog
 
+### Changed
+- Only define `process.env.NODE_ENV` when `--webpack-mode production` is used.
+  Allows use of frontend production only code.
+
 ## 3.2.0 - 2020-02-13
 
 ### Fixed
