@@ -1,5 +1,21 @@
 # bedrock-webpack ChangeLog
 
+### Added
+- Command line options `--webpack-define NAME=VALUE` to define frontend data.
+  In general, the frontend should use a pattern like the following:
+
+```sh
+node app.js --webpack-define MY_BOOL=true MY_JSON=false
+```
+```js
+if(typeof MY_BOOL !== 'undefined' && MY_BOOL === 'true') {
+  // ...
+}
+if(typeof MY_JSON !== 'undefined') {
+  config.json = JSON.parse(MY_JSON);
+}
+```
+
 ## 3.3.0 - 2020-03-18
 
 ### Changed
