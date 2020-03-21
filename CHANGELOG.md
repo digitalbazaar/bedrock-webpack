@@ -5,7 +5,7 @@
   In general, the frontend should use a pattern like the following:
 
 ```sh
-node app.js --webpack-define MY_BOOL=true MY_JSON=false
+node app.js --webpack-define MY_BOOL=true --wepack-define MY_JSON=false
 ```
 ```js
 if(typeof MY_BOOL !== 'undefined' && MY_BOOL === 'true') {
