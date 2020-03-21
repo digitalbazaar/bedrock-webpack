@@ -1,5 +1,13 @@
 # bedrock-webpack ChangeLog
 
+## 9.2.0 - 2024-xx-xx
+
+### Changed
+- `--webpack-symlink-watch <mode>` updated with new options:
+  - `none`: Don't scan for symlinks..
+  - `top`: Scan top-level `node_modules` directory (old `true` works).
+  - `all`: Recursively scan for symlinks in `node_modules` directories`
+
 ## 9.1.0 - 2024-02-28
 
 ### Added
