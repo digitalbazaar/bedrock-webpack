@@ -36,6 +36,8 @@ constants with the [webpack][] [DefinePlugin][].
 - Use `--webpack-define NAME=VALUE`. This can be used multiple times.
 - Check the name exists for optional constants.
 - The value is always a string.
+- These defines take precedence over other [bedrock][] defines. For instance,
+  you can override `process.env.NODE_ENV` with this option.
 
 ```sh
 node app.js --webpack-define MY_BOOL=true --wepack-define MY_JSON=false
