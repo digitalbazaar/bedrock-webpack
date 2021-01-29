@@ -30,6 +30,12 @@ if(typeof MY_JSON !== 'undefined') {
 }
 ```
 
+### Changed
+- `--webpack-symlink-watch <mode>` updated with new options:
+  - `none`: Don't scan for symlinks..
+  - `top`: Scan top-level `node_modules` directory (old `true` works).
+  - `all`: Recursively scan for symlinks in `node_modules` directories`
+
 ## 3.3.0 - 2020-03-18
 
 ### Changed
