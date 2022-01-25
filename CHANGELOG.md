@@ -9,6 +9,7 @@
   - Assets are put into a single directory rather than `js`, `css`,
     and `images`. (This may change back in the future if possible.)
 - Upgrade other dependencies.
+- Improved some webpack error logging.
 
 ### Removed
 - `bedrock-webpack.terser.config` setting.
