@@ -1,5 +1,18 @@
 # bedrock-webpack ChangeLog
 
+## 6.0.0 - 2022-xx-xx
+
+### Changed
+- **BREAKING**: Upgrade to `webpack@5`.
+  - Custom webpack configuration may need to be adjusted.
+  - Node.js polyfills are now disabled by default.
+  - Assets are put into a single directory rather than `js`, `css`,
+    and `images`. (This may change back in the future if possible.)
+- Upgrade other dependencies.
+
+### Removed
+- `bedrock-webpack.terser.config` setting.
+
 ## 5.0.3 - 2022-04-09
 
 ### Fixed
