@@ -8,6 +8,9 @@
   - Node.js polyfills are now disabled by default.
   - Assets are put into a single directory rather than `js`, `css`,
     and `images`. (This may change back in the future if possible.)
+  - HTML and CSS resource paths (such as images) may need to be
+    relative to the source files rather than absolute. The tools can
+    then copy resources and adjust paths as needed in the output.
 - Upgrade other dependencies.
 - Improved some webpack error logging.
 
