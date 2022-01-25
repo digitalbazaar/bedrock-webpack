@@ -13,6 +13,9 @@
 
 ### Removed
 - `bedrock-webpack.terser.config` setting.
+- babel plugins are now handled by `@babel/preset-env`:
+  - `@babel/plugin-syntax-dynamic-import`
+  - `@babel/plugin-proposal-object-rest-spread`
 
 ## 5.0.3 - 2022-04-09
 
