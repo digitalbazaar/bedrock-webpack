@@ -1,5 +1,20 @@
 # bedrock-webpack ChangeLog
 
+## 4.0.0 - 2022-03-xx
+
+### Added
+- Add `html-webpack-plugin@4` as a development dependency.
+- Add `templates/index.html` to serve as the base html template for all
+  bedrock web applications.
+
+### Changed
+- **BREAKING**: Change filenames to include hash. They now are of the form
+  `[name].[hash].extension`.
+
+### Removed
+- **BREAKING**: Removed `size` and `output` from information logging after
+  successful webpack builds.
+
 ## 3.6.0 - 2021-01-29
 
 ### Changed
