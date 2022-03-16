@@ -1,5 +1,11 @@
 # bedrock-webpack ChangeLog
 
+## 4.0.1 - 2022-03-xx
+
+### Fixed
+- Fix dependencies:
+  - Make `html-webpack-plugin@4` a regular dependency.
+
 ## 4.0.0 - 2022-03-16
 
 ### Added
