@@ -55,14 +55,14 @@
     "webpack-merge": "^4.2.2"
   },
   "peerDependencies": {
-    "bedrock": "1.12.1 - 3.x",
+    "bedrock": "^4.4.3",
     "bedrock-views": "^8.0.0"
   },
   "directories": {
     "lib": "./lib"
   },
   "engines": {
-    "node": ">=10.13"
+    "node": ">=12"
   },
   "devDependencies": {
     "eslint": "^7.18.0",

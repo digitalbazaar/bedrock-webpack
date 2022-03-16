@@ -10,6 +10,10 @@
 ### Changed
 - **BREAKING**: Change filenames to include hash. They now are of the form
   `[name].[hash].extension`.
+- **BREAKING**: Update peer deps:
+  - `bedrock@4.4.3`
+  - `bedrock-views@8`.
+- **BREAKING**: Require node 12.
 
 ### Removed
 - **BREAKING**: Removed `size` and `output` from information logging after
