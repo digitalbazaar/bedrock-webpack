@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 4.0.1 - 2022-03-xx
+## 4.0.1 - 2022-03-16
 
 ### Fixed
 - Fix dependencies:
