@@ -1,5 +1,14 @@
 # bedrock-webpack ChangeLog
 
+## 4.1.0 - 2022-03-xx
+
+### Changed
+- Update peer deps:
+  - `bedrock@4.5`
+  - `bedrock-views@8.1`.
+- Update internals to use esm style and use `esm.js` to
+  transpile to CommonJS.
+
 ## 4.0.1 - 2022-03-16
 
 ### Fixed
