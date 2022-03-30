@@ -34,6 +34,7 @@
     "clean-webpack-plugin": "^3.0.0",
     "core-js": "^3.6.4",
     "css-loader": "^3.4.2",
+    "esm": "^3.2.25",
     "file-loader": "^5.0.2",
     "file-size": "^1.0.0",
     "html-webpack-plugin": "^4.5.2",
@@ -56,8 +57,8 @@
     "webpack-merge": "^4.2.2"
   },
   "peerDependencies": {
-    "bedrock": "^4.4.3",
-    "bedrock-views": "^8.0.0"
+    "bedrock": "^4.5.0",
+    "bedrock-views": "^8.1.0"
   },
   "directories": {
     "lib": "./lib"
@@ -66,7 +67,9 @@
     "node": ">=12"
   },
   "devDependencies": {
-    "eslint": "^7.18.0",
-    "eslint-config-digitalbazaar": "^2.1.0"
+    "eslint": "^7.32.0",
+    "eslint-config-digitalbazaar": "^2.8.0",
+    "eslint-plugin-jsdoc": "^37.9.7",
+    "jsdoc-to-markdown": "^6.0.1"
   }
 }
