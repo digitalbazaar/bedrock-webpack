@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 4.2.0 - 2022-03-xx
+## 4.2.0 - 2022-03-30
 
 ### Changed
 - Change sass-loader engine from `node-sass` to `sass` to
