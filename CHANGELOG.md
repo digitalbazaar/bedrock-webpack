@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 4.1.0 - 2022-03-xx
+## 4.1.0 - 2022-03-30
 
 ### Changed
 - Update peer deps:
