@@ -1,5 +1,12 @@
 # bedrock-webpack ChangeLog
 
+## 4.2.0 - 2022-03-xx
+
+### Changed
+- Change sass-loader engine from `node-sass` to `sass` to
+  remove native module and use pure JS + modern and supported
+  sass engine based on dart sass.
+
 ## 4.1.0 - 2022-03-30
 
 ### Changed
