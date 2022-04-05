@@ -12,18 +12,18 @@ for development and to the [bedrock-views][] optimize command.
 
 ## Requirements
 
-- npm v3+
+- npm v6+
 
 ## Quick Examples
 
 In your main app, install the module and load it.
 
 ```
-npm install --save bedrock-webpack
+npm install --save @bedrock/webpack
 ```
 
 ```js
-require('bedrock-webpack');
+import '@bedrock/webpack';
 ```
 
 Now the [bedrock-views][] `optimize` command will run the webpack optimization.
