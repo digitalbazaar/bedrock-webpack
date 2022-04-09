@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 5.0.1 - 2022-04-xx
+
+### Fixed
+- Fix vue-loader plugin import.
+
 ## 5.0.0 - 2022-04-05
 
 ### Changed
