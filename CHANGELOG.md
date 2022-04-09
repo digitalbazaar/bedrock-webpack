@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 5.0.2 - 2022-04-xx
+## 5.0.2 - 2022-04-09
 
 ### Fixed
 - Fix `require.resolve` usage.
