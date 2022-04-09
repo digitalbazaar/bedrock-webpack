@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 5.0.3 - 2022-04-xx
+
+### Fixed
+- Fix `NODE_MODULES_DIR` constant based on new package location.
+
 ## 5.0.2 - 2022-04-09
 
 ### Fixed
