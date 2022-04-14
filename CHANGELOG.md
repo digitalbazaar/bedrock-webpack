@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 6.0.0 - 2022-xx-xx
+## 6.0.0 - 2022-04-13
 
 ### Changed
 - **BREAKING**: Upgrade to `webpack@5`.
