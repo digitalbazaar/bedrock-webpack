@@ -11,6 +11,7 @@
   - HTML and CSS resource paths (such as images) may need to be
     relative to the source files rather than absolute. The tools can
     then copy resources and adjust paths as needed in the output.
+- **BREAKING**: Remove support for IE11.
 - Upgrade other dependencies.
 - Improved some webpack error logging.
 
