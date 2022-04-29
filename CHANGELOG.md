@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 7.0.1 - 2022-04-xx
+
+### Fixed
+- Fix command line option handling.
+
 ## 7.0.0 - 2022-04-28
 
 ### Changed
