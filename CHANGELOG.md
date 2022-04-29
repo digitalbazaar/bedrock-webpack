@@ -1,5 +1,12 @@
 # bedrock-webpack ChangeLog
 
+## 7.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/core@6`
+  - `@bedrock/views@10`.
+
 ## 6.0.0 - 2022-04-13
 
 ### Changed

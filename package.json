@@ -55,8 +55,8 @@
     "webpack-merge": "^5.8.0"
   },
   "peerDependencies": {
-    "@bedrock/core": "^5.0.0",
-    "@bedrock/views": "^9.0.0"
+    "@bedrock/core": "^6.0.0",
+    "@bedrock/views": "^10.0.0"
   },
   "directories": {
     "lib": "./lib"
