@@ -1,5 +1,11 @@
 # bedrock-webpack ChangeLog
 
+## 8.0.0 - 2022-05-xx
+
+### Changed
+- **BREAKING**: Upgrade to Vue 3. Vue 2 is no longer supported with
+  this version.
+
 ## 7.0.1 - 2022-04-29
 
 ### Fixed
