@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 9.0.0 - 2022-08-xx
+
+### Changed
+- **BREAKING**: Require peer dependency `@bedrock/views@11`.
+
 ## 8.0.0 - 2022-05-26
 
 ### Changed
