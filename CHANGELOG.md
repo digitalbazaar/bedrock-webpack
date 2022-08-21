@@ -5,6 +5,10 @@
 ### Changed
 - **BREAKING**: Require peer dependency `@bedrock/views@11`.
 
+### Removed
+- **BREAKING**: Remove extra CSS optimization options. CSS is expected to
+  be used through Vue 3 and the Vue compiler already handles minimization.
+
 ## 8.0.0 - 2022-05-26
 
 ### Changed
