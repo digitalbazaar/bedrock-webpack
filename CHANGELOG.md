@@ -1,5 +1,14 @@
 # bedrock-webpack ChangeLog
 
+## 9.0.1 - 2023-02-dd
+
+### Fixed
+- Removed ineffectual, duplicative, and obsolete `vue-style-loader` package.
+  The `vue-loader` package already handles vue styles and the old
+  `vue-style-loader` package has seen no maintenance in several years. It
+  also now includes dependencies that have been flagged with vulnerabilities.
+  Therefore, this patch removes it.
+
 ## 9.0.0 - 2022-08-22
 
 ### Changed
