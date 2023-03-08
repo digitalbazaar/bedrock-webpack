@@ -1,5 +1,11 @@
 # bedrock-webpack ChangeLog
 
+## 9.0.2 - 2023-03-dd
+
+### Fixed
+- Restored `vue-style-loader` package. This package has been found to be
+  functional to some extent and will need a replacement.
+
 ## 9.0.1 - 2023-02-28
 
 ### Fixed
