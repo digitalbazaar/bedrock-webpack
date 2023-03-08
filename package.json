@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/webpack",
-  "version": "9.0.2",
+  "version": "9.0.3-0",
   "type": "module",
   "description": "Bedrock webpack module",
   "license": "SEE LICENSE IN LICENSE.md",
