@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 9.1.3
+
+### Added
+- A new config option `config['bedrock-webpack'].templates.index` for alternative `index.html` templates.
+
 ## 9.0.3 - 2023-03-08
 
 ### Fixed
