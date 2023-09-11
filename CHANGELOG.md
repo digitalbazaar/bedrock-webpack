@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 10.0.0 -
+
+### Changed
+- **BREAKING**: Added `viewport-fit=cover` to `index.html`.
+
 ## 9.0.3 - 2023-03-08
 
 ### Fixed
