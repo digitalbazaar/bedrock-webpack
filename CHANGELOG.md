@@ -2,6 +2,9 @@
 
 ## 9.1.0 - 2024-02-xx
 
+### Added
+- Add GitHub linting action.
+
 ### Changed
 - Relicense under the Apache-2.0 license.
 - Update Node.js tested versions to 18+.
