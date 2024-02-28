@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 9.1.0 - 2024-02-xx
+## 9.1.0 - 2024-02-28
 
 ### Added
 - Add GitHub linting action.
