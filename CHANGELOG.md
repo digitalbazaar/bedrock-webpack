@@ -4,6 +4,7 @@
 
 ### Changed
 - Relicense under the Apache-2.0 license.
+- Update Node.js tested versions to 18+.
 
 ## 9.0.3 - 2023-03-08
 
