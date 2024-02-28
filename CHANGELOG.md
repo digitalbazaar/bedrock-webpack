@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 9.1.0 - 2024-02-xx
+
+### Changed
+- Relicense under the Apache-2.0 license.
+
 ## 9.0.3 - 2023-03-08
 
 ### Fixed
