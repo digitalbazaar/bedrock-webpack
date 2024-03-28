@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 10.0.0 - 2024-xx-xx
+## 10.0.0 - 2024-03-28
 
 ### Added
 - New `--webpack-hmr-paths <mode>` option.
