@@ -1,5 +1,27 @@
 # bedrock-webpack ChangeLog
 
+## 10.0.0 - 2024-xx-xx
+
+### Added
+- New `--webpack-hmr-paths <mode>` option.
+  - When HMR is enabled, controls the mode used to scan for symlinked
+    dependencies which will be considered "unmanaged" by package managers and
+    changes will trigger HMR updates. Useful for symlinks to development code.
+  - Available modes:
+    - `none`: Disable scanning for symlinks.
+    - `top`: Scan top-level `node_modules` directory and scope directories.
+      (default)
+    - `all`: Recursively scan for symlinks in `node_modules` directories.
+- New `--webpack-hmr-path <fullpath>` repeatable option.
+  - When HMR is enabled, specifies paths which will be considered "unmanaged"
+    by package managers and changes will trigger HMR updates. Useful for
+    symlinks to development code.
+
+### Removed
+- Remove `--webpack-symlink-watch <mode>`. Not used anymore. For tracking
+  symlinked development directories, use `--webpack-hmr-paths` or
+  `--webpack-hmr-path`.
+
 ## 9.1.0 - 2024-02-28
 
 ### Added
