@@ -2,6 +2,6 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Contact: Digital Bazaar, Inc. <support@digitalbazaar.com>
 
 Files: *.md .gitignore .npmrc package.json test/.npmrc test/mocha/.eslintrc
-    test/package.json .editorconfig .github/* test/static/*.html
+    test/package.json .editorconfig .github/* templates/*
 Copyright: 2012-2024 Digital Bazaar, Inc.
 License: Apache-2.0
