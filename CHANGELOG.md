@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 10.1.0 - 2024-09-dd
+## 10.0.1 - 2024-09-05
 
 ### Fixed
 - Upgraded Webpack to v5.90.0+ to support `unmanagedPaths` in configurations.
