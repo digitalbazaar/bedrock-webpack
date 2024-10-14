@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 11.0.0 - 2024-10-dd
+## 11.0.0 - 2024-10-14
 
 ### Changed
 - **BREAKING**: Use `@bedrock/views@12`. Most applications are not expected
