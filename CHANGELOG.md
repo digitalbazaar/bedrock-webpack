@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 10.1.0 - 2024-10-dd
+## 10.1.0 - 2024-10-14
 
 ### Changed
 - Use newer and community-preferred `sass-embedded` alternative for `sass`.
