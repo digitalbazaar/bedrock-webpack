@@ -39,7 +39,7 @@
     "less": "^4.1.2",
     "less-loader": "^11.0.0",
     "regenerator-runtime": "^0.13.9",
-    "sass": "^1.50.0",
+    "sass-embedded": "^1.79.5",
     "sass-loader": "^13.0.2",
     "stats-webpack-plugin": "^0.7.0",
     "style-loader": "^3.3.1",

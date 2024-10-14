@@ -1,5 +1,11 @@
 # bedrock-webpack ChangeLog
 
+## 10.1.0 - 2024-10-dd
+
+### Changed
+- Use newer and community-preferred `sass-embedded` alternative for `sass`.
+  Using this new package also removes deprecated API warnings in applications.
+
 ## 10.0.1 - 2024-09-05
 
 ### Fixed
