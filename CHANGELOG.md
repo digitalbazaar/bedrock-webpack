@@ -6,6 +6,9 @@
 - Use newer and community-preferred `sass-embedded` alternative for `sass`.
   Using this new package also removes deprecated API warnings in applications.
 
+### Fixed
+- Fix stats warning logging.
+
 ## 10.0.1 - 2024-09-05
 
 ### Fixed
