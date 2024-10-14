@@ -37,14 +37,14 @@
     "file-size": "^1.0.0",
     "html-webpack-plugin": "^5.5.0",
     "less": "^4.1.2",
-    "less-loader": "^11.0.0",
+    "less-loader": "^12.2.0",
     "regenerator-runtime": "^0.13.9",
     "sass-embedded": "^1.79.5",
-    "sass-loader": "^13.0.2",
+    "sass-loader": "^16.0.2",
     "stats-webpack-plugin": "^0.7.0",
     "style-loader": "^3.3.1",
-    "stylus": "^0.59.0",
-    "stylus-loader": "^7.0.0",
+    "stylus": "^0.63.0",
+    "stylus-loader": "^8.1.1",
     "terser-webpack-plugin": "^5.3.1",
     "vue": "^3.2.36",
     "vue-loader": "^17.0.0",
@@ -65,7 +65,7 @@
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-digitalbazaar": "^5.0.1",
-    "eslint-plugin-jsdoc": "^48.2.0",
-    "eslint-plugin-unicorn": "^51.0.1"
+    "eslint-plugin-jsdoc": "^50.4.1",
+    "eslint-plugin-unicorn": "^56.0.0"
   }
 }
