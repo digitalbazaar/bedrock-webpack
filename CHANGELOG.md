@@ -1,5 +1,13 @@
 # bedrock-webpack ChangeLog
 
+## 11.0.0 - 2024-10-dd
+
+### Changed
+- **BREAKING**: Use `@bedrock/views@12`. Most applications are not expected
+  to require any changes to make use of this new version. Breaking changes
+  only included the removal of a number of obsolete and rarely used features
+  (see the CHANGELOG for `bedrock-views` for details).
+
 ## 10.1.0 - 2024-10-14
 
 ### Changed
