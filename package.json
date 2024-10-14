@@ -54,7 +54,7 @@
   },
   "peerDependencies": {
     "@bedrock/core": "^6.0.0",
-    "@bedrock/views": "^11.0.0"
+    "@bedrock/views": "^12.0.0"
   },
   "directories": {
     "lib": "./lib"
