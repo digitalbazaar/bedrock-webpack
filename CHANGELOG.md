@@ -1,5 +1,15 @@
 # bedrock-webpack ChangeLog
 
+## 11.1.0 - 2024-10-dd
+
+### Changed
+- Update dependencies:
+  - `babel-loader@9`
+  - `css-loader@7`
+  - `regenerator-runtime@0.14`
+  - `style-loader@4`
+  - `webpack-merge@6`.
+
 ## 11.0.1 - 2024-10-14
 
 ### Fixed
