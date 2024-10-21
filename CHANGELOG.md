@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 11.1.2 - 2024-10-21
+
+### Changed
+- Fix package release.
+
 ## 11.1.1 - 2024-10-21
 
 ### Changed
