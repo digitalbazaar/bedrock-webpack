@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 11.1.1 - 2024-10-dd
+## 11.1.1 - 2024-10-21
 
 ### Changed
 - Revert to `sass` dependency as `sass-embedded` creates a number of
