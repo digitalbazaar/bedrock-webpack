@@ -1,5 +1,12 @@
 # bedrock-webpack ChangeLog
 
+## 11.1.1 - 2024-10-dd
+
+### Changed
+- Revert to `sass` dependency as `sass-embedded` creates a number of
+  installation problems for top-level applications as its `optional`
+  dependencies are actually required.
+
 ## 11.1.0 - 2024-10-15
 
 ### Changed
