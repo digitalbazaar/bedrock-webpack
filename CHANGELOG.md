@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 11.1.3 - 2025-mm-dd
+
+### Fixed
+- Use `stylus@0.64` to address obsolete subdependencies.
+
 ## 11.1.2 - 2024-10-21
 
 ### Changed
