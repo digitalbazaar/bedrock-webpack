@@ -1,6 +1,12 @@
 # bedrock-webpack ChangeLog
 
-## 11.1.3 - 2025-mm-dd
+## 11.2.0 - 2025-mm-dd
+
+### Changed
+- Update dependencies:
+  - `babel-loader@10`
+  - `stylus@0.64`
+  - various minor version upgrades.
 
 ### Fixed
 - Use `stylus@0.64` to address obsolete subdependencies.
