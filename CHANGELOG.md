@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 11.2.1 - 2025-07-dd
+
+### Fixed
+- Update `corejs` in webpack config to match new corejs version.
+
 ## 11.2.0 - 2025-07-16
 
 ### Changed
