@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 12.0.0 - 2025-07-dd
+
+### Removed
+- **BREAKING**: Remove built-in `stylus` support.
+
 ## 11.2.1 - 2025-07-17
 
 ### Fixed

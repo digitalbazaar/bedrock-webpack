@@ -43,8 +43,6 @@
     "sass-loader": "^16.0.2",
     "stats-webpack-plugin": "^0.7.0",
     "style-loader": "^4.0.0",
-    "stylus": "^0.64.0",
-    "stylus-loader": "^8.1.1",
     "terser-webpack-plugin": "^5.3.14",
     "vue": "^3.5.17",
     "vue-loader": "^17.0.0",
