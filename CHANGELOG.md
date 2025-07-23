@@ -1,9 +1,13 @@
 # bedrock-webpack ChangeLog
 
-## 12.0.0 - 2025-07-dd
+## 11.2.2 - 2025-07-dd
 
 ### Removed
-- **BREAKING**: Remove built-in `stylus` support.
+- **BREAKING**: Remove built-in `stylus` support, based on a security hold
+  hold on the stylus package. This language is rarely used and not a
+  requirement for other commonly supported bedrock modules. If you still
+  need `stylus` support, you can manually add a loader to your application,
+  but note that the language is generally considered deprecated.
 
 ## 11.2.1 - 2025-07-17
 
