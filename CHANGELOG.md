@@ -1,5 +1,11 @@
 # bedrock-webpack ChangeLog
 
+## 11.3.0 - 2025-mm-dd
+
+### Changed
+- Update dependencies:
+  - `core-js@3.45.1`.
+
 ## 11.2.2 - 2025-07-23
 
 ### Removed
