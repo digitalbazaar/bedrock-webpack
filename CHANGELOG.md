@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 11.4.0 - 2025-09-dd
+
+### Changed
+- Replace `clean-webpack-plugin` with webpack 5.20+ built-in `CleanPlugin`.
+
 ## 11.3.0 - 2025-08-25
 
 ### Changed

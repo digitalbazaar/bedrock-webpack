@@ -30,7 +30,6 @@
     "@babel/preset-env": "^7.28.0",
     "app-root-path": "^3.0.0",
     "babel-loader": "^10.0.0",
-    "clean-webpack-plugin": "^4.0.0",
     "core-js": "^3.45.1",
     "css-loader": "^7.1.2",
     "file-loader": "^6.2.0",
