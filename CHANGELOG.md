@@ -1,5 +1,12 @@
 # bedrock-webpack ChangeLog
 
+## 11.5.0 - 2026-mm-dd
+
+### Changed
+- Update dependencies:
+  - `less-loader@13`
+  - `sass-loader@17`.
+
 ## 11.4.0 - 2025-09-21
 
 ### Changed
