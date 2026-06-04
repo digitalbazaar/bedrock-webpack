@@ -6,7 +6,8 @@
 - Update dependencies:
   - `@babel/core@7.29.7`
   - `@babel/preset-env@7.29.7`
-  - `core-js@3.49`.
+  - `core-js@3.49`
+  - all related babel deps.
 
 ## 11.5.0 - 2026-06-04
 
