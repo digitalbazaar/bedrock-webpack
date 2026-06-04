@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 11.5.0 - 2026-mm-dd
+## 11.5.0 - 2026-06-04
 
 ### Changed
 - Update dependencies:
