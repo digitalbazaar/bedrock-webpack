@@ -1,6 +1,6 @@
 # bedrock-webpack ChangeLog
 
-## 11.6.1 - 2026-06-dd
+## 11.6.1 - 2026-06-04
 
 ### Fixed
 - Ensure default base config disables unavailable `crypto` frontend polyfill.
