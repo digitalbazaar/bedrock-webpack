@@ -6,6 +6,13 @@
 - Update dependencies:
   - `less-loader@13`
   - `sass-loader@17`.
+- Update all dev dependencies.
+  - `@digitalbazaar/eslint-config@8`.
+  - `eslint@9`.
+- **NOTE**: Update supported platforms.
+  - Test on Node.js >=22.
+  - Update `engines.node` to `>=22`.
+  - Update README requirements section.
 
 ## 11.4.0 - 2025-09-21
 
