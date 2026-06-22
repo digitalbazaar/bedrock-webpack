@@ -1,5 +1,10 @@
 # bedrock-webpack ChangeLog
 
+## 11.6.2 - 2026-06-dd
+
+### Fixed
+- Replace deprecated [hash] with [contenthash] in webpack output filename.
+
 ## 11.6.1 - 2026-06-04
 
 ### Fixed
