@@ -3,6 +3,10 @@
 ## 11.7.0 - 2026-xx-xx
 
 ### Changed
+- Update minor dependencies. Notable:
+  - `core-js@3.50.0`.
+- Update peer dependencies.
+  - `@bedrock/core@6.3.0`
 - Update dev dependencies.
 
 ## 11.6.1 - 2026-06-04
