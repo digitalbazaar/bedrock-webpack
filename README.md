@@ -12,8 +12,10 @@ for development and to the [bedrock-views][] optimize command.
 
 ## Requirements
 
-- node v22+
-- npm v11+
+This software requires and supports maintained recent versions of Node.js.
+Updates may remove support for older unmaintained platform versions. Please use
+dependency version lock files and testing to ensure compatibility with this
+software.
 
 ## Quick Examples
 
